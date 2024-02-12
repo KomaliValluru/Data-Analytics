@@ -1,5 +1,5 @@
 <h1>Tableau Projects</h1>
-<T1>Video Games Sales</T1>
+<T1><B>Video Games Sales</B></T1>
 <b1>
 <div class='tableauPlaceholder' id='viz1707751030487' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' 
 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;vi&#47;video_games_sales_17077510144160&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a>
